@@ -130,4 +130,12 @@ ___
 - Functional and effective conmnectivity
     - what kind of effect does one neuronal system have on the other
 - Assumptions of the inherent ddata structure or biophysics
+- Advanced software analysis
+
+# Class Discussion
+- Harder to focus on areas for improvement, strengths for this
+- Harder to use this paper for specific areas
+- Implications of societal issues, healthy vs unhealthy brains
+- Specific about weaknesses for different studies
+
 - 

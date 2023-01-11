@@ -20,7 +20,13 @@
 - English monolinguals show increased neural involvement and decrease in speed/accuracy during complex SO vs. less complex OS stimuli
 
 ## Methods
+- They recruited a variety of different language speakers, but all of them are between the ages of 18-22 and 18-26 years old, for the bilinguals and monolinguals
+    - Questioned why this decision was made, unsure as to why this was the case
+- Also questioned what counted as bilingual exposure meant, is this something that's quantifiable?
 - What does handiness have to do with anything? Does this induce some change that the authors didn't mention?
+    - Does this make the experiment reproducible?
+    - Does handiness change the results?
+- 
 - Could left-handed participants see differing results?
 - Larger female presence in bilingual group, range 18-22 years, same split for monolinguals range 18-26 years
 - Expsoure to the bilingualism matters? Doesn't seem like there's a standard here
@@ -31,8 +37,24 @@
 - Preprocessing was completed based on the last paper's steps
 
 ## Results
-- Language group has an effect, sentence type does not
-- ANOVA Table shows that RT for bilinguals was different across languages
+- ANOVA Table shows that Reaction Time for bilinguals was different across languages
+- Language group has an effect, sentence type does not on the reaction time
+    - p value of .01
+- No difference between language groups and relative accuracy
+- 
 - Are we taking into account the inherent differences of the languages themselves?
     - Isn't english hard to learn?
 - Mixed ANOVA utilized by the researchers in each analysis, why are they adding a factor for "between" and "within"
+- Greater BOLD intensity for English, greater for SO than OS
+
+
+## Discussion
+- Differences between English and Spanish, represents potential for a different language learning model
+- Bilinguals show same speed for SO and OS in English
+- Spanish bilinguals have difference in speed when working with spanish
+- That the bilinguals showed  processing  differences  in  English  versus  Span-ish, which were specifically predicted from differences inthe  linguistic  structures  typical  of  English  versus  Span-ish, lends support to the hypothesis that bilinguals candevelop  two  differentiated,  monolingual-like,  linguisticsystems in one brain.
+
+# Class Notes
+- Similar vs different languages? -> What if we did this experiment with different pairs of languages
+- Every fMRI is **correlative** only
+- 
